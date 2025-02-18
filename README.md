@@ -2,26 +2,104 @@
 
 🚀 Python Django & React Developer | Passionate about Web Development & AI🎓 Computer Science Graduate | Constantly learning and building cool projects
 
-🔧 Technologies & Tools
+Technologies & Tools
+Backend Development (Primary Focus)
 
-Backend: Python, Django, Django REST Framework
+Python (Intermediate)
+Django & Django REST Framework (Intermediate)
+RESTful API Design
+API Authentication & Security
+Database Design & Optimization
 
-Frontend: React.js, HTML, CSS, Bootstrap
+Frontend Development
 
-Database: PostgreSQL, SQLite
+HTML5 & CSS3
+Bootstrap
+Responsive Web Design
 
-Other: Git, REST APIs
+Database & Tools
 
-📌 Projects
+PostgreSQL
+SQLite
+Git & GitHub
+VS Code
+Postman
 
+Currently Learning
+
+React.js & Hooks
+React.js & Hooks
+
+Projects
 📋 Task Manager (Django CRUD)
+A feature-rich task management application built with Django and Bootstrap.
+Key Features:
 
-A simple yet powerful task management app with pagination, task completion toggle, and Bootstrap styling.🔗 Project Repository
+User Authentication & Authorization
+CRUD Operations for Tasks
+Task Categorization & Priority Setting
+Responsive UI with Bootstrap
+Pagination for Better Performance
 
-📫 Connect with Me
+View Project Repository
+Upcoming Projects
 
-💼 LinkedIn | 🐦 Twitter | 📧 EmailLet's collaborate and build something amazing! 🚀
-<!---
-AbdulKareem-M/AbdulKareem-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Social Media Platform (In Planning)
+Planned Features:
+
+User Profiles & Authentication
+Post Creation with Image Upload
+Real-time Chat Using WebSocket
+News Feed with Infinite Scroll
+Like, Comment & Share Functionality
+Follow/Unfollow System
+Notification System
+Direct Messaging
+
+
+E-commerce Platform
+
+Product Catalog
+Shopping Cart
+Payment Integration
+Order Management
+
+
+Personal Blog with Django CMS
+
+Technical Writing Platform
+Code Snippet Sharing
+Tutorial Section
+
+
+
+Professional Development Goals
+
+Building a portfolio website with React.js
+Contributing to open-source Django projects
+Gaining expertise in cloud deployment
+Exploring AI/ML integration in web applications
+Implementing WebSocket for real-time features
+
+Soft Skills
+
+Strong problem-solving approach
+Excellent team collaboration
+Agile development methodologies
+Effective communication
+Quick learner & adaptable
+
+Connect with Me
+
+LinkedIn
+Email
+
+Open to
+
+Full Stack Development Opportunities
+Freelance Projects
+Open Source Collaboration
+Technical Writing
+Mentoring & Learning from Others
+
+Let's collaborate and build something amazing! 🚀

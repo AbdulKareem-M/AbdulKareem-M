@@ -1,105 +1,107 @@
-- Hi there! 👋 I'm Abdul Kareem
+## **🚀 Hi there! 👋 I'm Abdul Kareem**  
+**Python Django & React Developer** | Passionate about Web Development & AI  
+🎓 **Computer Science Graduate** | Constantly learning and building cool projects  
 
-🚀 Python Django & React Developer | Passionate about Web Development & AI🎓 Computer Science Graduate | Constantly learning and building cool projects
+---
 
-Technologies & Tools
-Backend Development (Primary Focus)
+## **🛠️ Technologies & Tools**  
 
-Python (Intermediate)
-Django & Django REST Framework (Intermediate)
-RESTful API Design
-API Authentication & Security
-Database Design & Optimization
+### **🔹 Backend Development (Primary Focus)**  
+- Python (**Intermediate**)  
+- Django & Django REST Framework (**Intermediate**)  
+- RESTful API Design  
+- API Authentication & Security  
+- Database Design & Optimization  
 
-Frontend Development
+### **🎨 Frontend Development**  
+- HTML5 & CSS3  
+- Bootstrap  
+- Responsive Web Design  
 
-HTML5 & CSS3
-Bootstrap
-Responsive Web Design
+### **🗄️ Database & Tools**  
+- PostgreSQL  
+- SQLite  
+- Git & GitHub  
+- VS Code  
+- Postman  
 
-Database & Tools
+### **📚 Currently Learning**  
+- React.js & Hooks  
 
-PostgreSQL
-SQLite
-Git & GitHub
-VS Code
-Postman
+---
 
-Currently Learning
+## **💻 Projects**  
 
-React.js & Hooks
-React.js & Hooks
+### **📱 Social Media Platform (In Development)**  
+🚀 **A simple social media platform with essential features.**  
 
-Projects
-📋 Task Manager (Django CRUD)
-A feature-rich task management application built with Django and Bootstrap.
-Key Features:
+**Key Features:**  
+- 🆕 User Profiles & Authentication  
+- 📝 Post Creation with Image Upload  
+- ❤️ Like, Comment & Share Functionality  
+- 👥 Follow/Unfollow System  
+- 🔔 Notification System  
 
-User Authentication & Authorization
-CRUD Operations for Tasks
-Task Categorization & Priority Setting
-Responsive UI with Bootstrap
-Pagination for Better Performance
+---
 
-View Project Repository
-Upcoming Projects
+### **📋 Task Manager (Django CRUD)**  
+A feature-rich task management application built with Django and Bootstrap.  
 
-Social Media Platform (In Planning)
-Planned Features:
+**Key Features:**  
+✅ User Authentication & Authorization  
+✅ CRUD Operations for Tasks  
+✅ Task Categorization & Priority Setting  
+✅ Responsive UI with Bootstrap  
+✅ Pagination for Better Performance  
 
-User Profiles & Authentication
-Post Creation with Image Upload
-Real-time Chat Using WebSocket
-News Feed with Infinite Scroll
-Like, Comment & Share Functionality
-Follow/Unfollow System
-Notification System
-Direct Messaging
+🔗 **[View Project Repository](https://github.com/AbdulKareem-M/To-Do-App-Project.git)**  
 
+---
 
-E-commerce Platform
+## **🚀 Upcoming Projects**  
 
-Product Catalog
-Shopping Cart
-Payment Integration
-Order Management
+### **🛒 E-commerce Platform**  
+- Product Catalog  
+- Shopping Cart  
+- Payment Integration  
+- Order Management  
 
+### **📝 Personal Blog with Django CMS**  
+- Technical Writing Platform  
+- Code Snippet Sharing  
+- Tutorial Section  
 
-Personal Blog with Django CMS
+---
 
-Technical Writing Platform
-Code Snippet Sharing
-Tutorial Section
+## **🎯 Professional Development Goals**  
+- 🌐 Building a portfolio website with React.js  
+- 🎯 Contributing to open-source Django projects  
+- ☁️ Gaining expertise in cloud deployment  
+- 🤖 Exploring AI/ML integration in web applications  
+- 🔄 Implementing WebSocket for real-time features  
 
+---
 
+## **💡 Soft Skills**  
+✔️ Strong problem-solving approach  
+✔️ Excellent team collaboration  
+✔️ Agile development methodologies  
+✔️ Effective communication  
+✔️ Quick learner & adaptable  
 
-Professional Development Goals
+---
 
-Building a portfolio website with React.js
-Contributing to open-source Django projects
-Gaining expertise in cloud deployment
-Exploring AI/ML integration in web applications
-Implementing WebSocket for real-time features
+## **📬 Connect with Me**  
+📌 **[LinkedIn](https://www.linkedin.com/in/abdu1kareem)**  
+📧 **[Email](mailto:abdulkareemyuseph@gmail.com)**  
 
-Soft Skills
+---
 
-Strong problem-solving approach
-Excellent team collaboration
-Agile development methodologies
-Effective communication
-Quick learner & adaptable
+## **🚀 Open to**  
+💼 Full Stack Development Opportunities  
+💻 Freelance Projects  
+🛠 Open Source Collaboration  
+📝 Technical Writing  
+🎓 Mentoring & Learning from Others  
 
-Connect with Me
-
-LinkedIn
-Email
-
-Open to
-
-Full Stack Development Opportunities
-Freelance Projects
-Open Source Collaboration
-Technical Writing
-Mentoring & Learning from Others
-
-Let's collaborate and build something amazing! 🚀
+Let's collaborate and build something amazing! 🚀  

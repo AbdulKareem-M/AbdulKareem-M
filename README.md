@@ -16,7 +16,7 @@
 ### **🎨 Frontend Development**  
 - HTML5 & CSS3  
 - Bootstrap  
-- Responsive Web Design  
+- JavaScript 
 
 ### **🗄️ Database & Tools**  
 - PostgreSQL  
@@ -32,15 +32,44 @@
 
 ## **💻 Projects**  
 
-### **📱 Social Media Platform (In Development)**  
-🚀 **A simple social media platform with essential features.**  
+### **Ecommerce Web App**  
+🚀 **A fully functional online shopping platform built using Django.**  
 
 **Key Features:**  
-- 🆕 User Profiles & Authentication  
-- 📝 Post Creation with Image Upload  
-- ❤️ Like, Comment & Share Functionality  
-- 👥 Follow/Unfollow System  
-- 🔔 Notification System  
+- Product listing and filtering by categories
+- Cart management and checkout process 
+- User authentication (login/register)
+- Product reviews & email notifications
+- Tech stack : Django, Python, HTML, CSS, Bootstrap, SQLite
+
+🔗 **[View Project Repository](https://github.com/AbdulKareem-M/Ecommerce-project.git)** 
+
+---
+
+### **Job portal Web App**  
+🚀 **A platform connecting jobseekers with recruiters**  
+
+**Key Features:**  
+- User authentication and role-based dashboards
+- Job posting and application system 
+- Resume upload and job filtering
+- Tech stack : Django, Python, HTML, CSS, Bootstrap, SQLite
+
+🔗 **[View Project Repository](https://github.com/AbdulKareem-M/JobConnect.git)** 
+
+---
+
+### **Expense Tracker Web App**  
+🚀 **A simple and intuitive web app to manage personal expenses.**  
+
+**Key Features:**  
+- Add, edit, and delete expense entries
+- View expenses by category and date 
+- Total and monthly expense summary
+- Clean and responsive UI
+- Tech stack : Django, Python, HTML, CSS, Bootstrap, SQLite
+
+🔗 **[View Project Repository](https://github.com/AbdulKareem-M/Expsense_Tracker.git)** 
 
 ---
 
@@ -58,20 +87,6 @@ A feature-rich task management application built with Django and Bootstrap.
 
 ---
 
-## **🚀 Upcoming Projects**  
-
-### **🛒 E-commerce Platform**  
-- Product Catalog  
-- Shopping Cart  
-- Payment Integration  
-- Order Management  
-
-### **📝 Personal Blog with Django CMS**  
-- Technical Writing Platform  
-- Code Snippet Sharing  
-- Tutorial Section  
-
----
 
 ## **🎯 Professional Development Goals**  
 - 🌐 Building a portfolio website with React.js  
